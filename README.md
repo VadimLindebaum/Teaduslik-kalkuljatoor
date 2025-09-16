@@ -1,5 +1,4 @@
 # Teaduslik-kalkuljatoor
-# Teaduslik-kalkuljatoor
 # 🧮 Teaduslik jQuery kalkulaator (Eesti keeles)
 
 See on veebipõhine teaduslik kalkulaator, mis on loodud HTML-i, CSS-i ja jQuery abil. Kalkulaator toetab põhiaritmeetikat ning mitmeid teaduslikke funktsioone, ja on täielikult eestikeelne.
@@ -39,8 +38,7 @@ Kalkulaator kohandub automaatselt väiksematele ekraanidele. Testitud Chrome’i
 
 
 ## 👤 Autor
-
-**Vadim** – Tallinn, Eesti  
+  
 Kui soovid funktsioone laiendada või midagi muuta, tee fork ja saada pull request!
 
 ## 📄 Litsents
